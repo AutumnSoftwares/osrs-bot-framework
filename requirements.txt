@@ -1,0 +1,11 @@
+pygetwindow
+pyautogui
+pillow
+mss
+opencv-python
+pytesseract
+keyboard
+requests
+websockets
+flask
+flask-cors
